@@ -1,0 +1,21 @@
+{
+  "name": "olivesalad",
+  "version": "0.0.5",
+  "description": "word salad generator that takes a string as an input and outputs two words",
+  "bin": {
+    "olivesalad": "./index.js"
+  },
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emmyarty",
+  "license": "MIT",
+  "dependencies": {
+    "bip39": "^3.0.4",
+    "crypto-js": "^4.1.1",
+    "minimist": "^1.2.8"
+  }
+}
