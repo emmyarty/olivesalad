@@ -1,6 +1,6 @@
 # Olive Oil
 
-![Logo](./README.png)
+![Logo](https://github.com/emmyarty/olivesalad/raw/main/README.png)
 
 ### Easily generate 'word salads' from whatever input strings or numbers you throw in using crypto-js, minimist, and bip39.
 --------------------------------------------------------------------------------
